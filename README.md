@@ -10,7 +10,7 @@ The goal of this project is to demonstrate how React's Virtual DOM handles updat
 
 This project includes two parts:
 
-1. **Vanilla JS Example (Plain HTML + JS)**  
+1. **Vanilla JS Example (Plain HTML + JS + CSS)**  
    A basic HTML file with a button that directly manipulates the DOM to change the title and track update counts.
 
 2. **React Application**  
