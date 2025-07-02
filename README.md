@@ -55,7 +55,7 @@ This project includes two parts:
 - While both approaches will update the DOM and count, React’s Virtual DOM approach is conceptually more optimized and scales better with complex UIs.
 
 ## File Structure
-
+```plaintext
 ccp-react-d01-q13/
 ├── vanilla.html
 ├── vanilla.js
